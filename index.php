@@ -2,7 +2,6 @@
 
 echo "Meu primeiro código PHP! <strong>Hello World.<strong>";
 
-
-echo "Também testei o Echo aqui no outro arquivo."
+echo "Testando Conflitos no GIT e Também testei o Echo aqui no outro arquivo.";
 
 ?>
